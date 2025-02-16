@@ -1,5 +1,5 @@
 {
-  "name": "otoware-maker",
+  "name": "yuyuyu-deploy-otoware-maker",
   "private": true,
   "scripts": {
     "dev": "next dev",
